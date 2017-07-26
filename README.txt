@@ -1,52 +1,28 @@
+Free Bootstrap Theme for Developers & Startups
 
-TITLE: 
-Legal - One Page Responsive Free HTML5 template
+Theme name:
+=======================================================================
+Appkit Landing
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+Theme version:
+=======================================================================
+v1.2
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Release Date:
+=======================================================================
+28 Dec 2016
 
+Author: 
+=======================================================================
+Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 
-CREDITS:
+Contact:
+=======================================================================
+Web: http://themes.3rdwavemedia.com/
+Email: themes@3rdwavemedia.com
+Twitter: @3rdwave_themes
 
-Bootstrap
-http://getbootstrap.com/
-
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Map
-http://maps.google.com
-
-Icomoon
-https://icomoon.io/app/
-
-Simple Line Icons
-https://github.com/thesabbir/simple-line-icons
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Demo Images:
-http://unsplash.com
+License: 
+=======================================================================
+This template is free under the Creative Commons Attribution 3.0 License.
+https://creativecommons.org/licenses/by/3.0/
